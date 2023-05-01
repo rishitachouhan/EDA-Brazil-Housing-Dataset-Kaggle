@@ -1,4 +1,4 @@
-# BigMart Sales Prediction - Regression
+# Brazil Housing Dataset - EDA
 
 
 ## **Table of Contents**
